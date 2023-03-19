@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Me chamo Bruno Gomes, sou Desenvolvedor Front-End👨‍💻 </div>  
+### <div align="center">Me chamo Bruno Gomes, tenho 25 anos e sou Desenvolvedor Front-End com habilidades em HTML, CSS, Bootstrap e JavaScript. 👨‍💻 </div>  
   
 
 - 🔭 Atualmente estou aberto a oportunidades de emprego [LinkedIn](https://www.linkedin.com/in/brunogs97/)  
