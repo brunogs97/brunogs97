@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 30%" />
 </div>  
   
-
+### <div align="center">Bem-Vindo(a) ao meu repositório.</div>  
 ### <div align="center">Me chamo Bruno Gomes, tenho 25 anos e sou Desenvolvedor Front-End com habilidades em HTML, CSS, Bootstrap e JavaScript. 👨‍💻 </div>  
   
 
