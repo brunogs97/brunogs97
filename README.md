@@ -8,10 +8,6 @@
 
 - 🔭 Atualmente estou aberto a oportunidades de emprego [LinkedIn](https://www.linkedin.com/in/brunogs97/)  
   
-
-- 🌱 Atualmente estou aprendendo HTML5, CSS3, JavaScript e React  
-  
-
 <br/>  
 
 
