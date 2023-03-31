@@ -2,11 +2,11 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 30%" />
 </div>  
   
-### <div align="center">Bem-Vindo(a) ao meu repositório.</div>  
-### <div align="center">Me chamo Bruno Gomes, tenho 25 anos e sou Desenvolvedor Front-End com habilidades em HTML, CSS, Bootstrap e JavaScript. 👨‍💻 </div>  
+### <div align="center">Welcome to my repository.</div>  
+### <div align="center">My name is Bruno Gomes, I'm 25 years old and I'm a Front-End Developer with skills in HTML, CSS, Bootstrap and JavaScript. 👨‍💻 </div>  
   
 
-- 🔭 Atualmente estou aberto a oportunidades de emprego [LinkedIn](https://www.linkedin.com/in/brunogs97/)  
+- 🔭 I am currently open to job opportunities [LinkedIn](https://www.linkedin.com/in/brunogs97/)  
   
 <br/>  
 
