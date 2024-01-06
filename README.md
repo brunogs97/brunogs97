@@ -1,96 +1,30 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 30%" />
-</div>  
-  
-### <div align="center">Welcome to my repository.</div>  
-### <div align="center">My name is Bruno Gomes, I'm 26 years old and I'm a Front-End Developer with skills in HTML, CSS, JavaScript and ReactJS. 👨‍💻 </div>  
-  
+## Olá, meu nome é Bruno Gomes!
 
-- 🔭 I am currently open to job opportunities [LinkedIn](https://www.linkedin.com/in/brunogs97/)  
-  
-<br/>  
+<p align="left"> 
 
+ Conheci o mundo da programação em 2021 e, desde então venho me dedicando para me tornar um Desenvolvedor Front-End. Além das documentações que utilizo para expandir meu conhecimento, já realizei alguns cursos com certificações pelas plataformas Alura, Rocketseat e Udemy. Sou muito bom em me comunicar com as pessoas, trabalhar em grupo e estou sempre pronto para enfrentar novos desafios.
+</p>
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<p align="left">
+  Tecnologias: <strong>JavaScript</strong>, <strong>HTML5</strong> e <strong>CSS3</strong>.
+</p>
 
 
+<br>
 
-### Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-</div>
+<p align="left">
+<strong>Contatos:</strong>
+</p>
 
-</td><td valign="top" width="33%">
+<p align="left">
+  Email: <strong>gomes_bruno97@hotmail.com</strong>
+</p>
 
-
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/https://github.com/brunogs97" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/brunogs97/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/https://www.instagram.com/_brunogs/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<p align="left">
+  <a href="https://www.instagram.com/_brunogs/" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-828389?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https:https://www.instagram.com/_brunogs/"/>
+  </a>
+  <a href="https://www.linkedin.com/in/brunogs97/" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-02a8d3?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/brunogs97/"/>
+  </a>
+</p>
